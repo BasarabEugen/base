@@ -2,7 +2,7 @@ package ClassAndObjects;/*
  * Created by BASARAB EUGEN on 16.07.2018
  */
 
-public class ClassAndObjects {
+public class ClassAndObjectsTest1 {
     public static void main(String[] args) {
         Person persona1 = new Person();
         persona1.name = "Alex";
