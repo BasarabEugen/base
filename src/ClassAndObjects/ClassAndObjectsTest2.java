@@ -2,7 +2,7 @@ package ClassAndObjects;/*
  * Created by BASARAB EUGEN on 16.07.2018
  */
 
-public class ClassesAndObjectsTest2 {
+public class ClassAndObjectsTest2 {
     public static void main(String[] args) {
         PersonaNonGrata p1 = new PersonaNonGrata();
         PersonaNonGrata p2 = new PersonaNonGrata();
